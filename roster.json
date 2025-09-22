@@ -1,0 +1,84 @@
+{
+  "players": [
+    { "id": 1, 
+    "name": "Lionel Messi", 
+    "age": 38, 
+    "position": "Forward", 
+    "club": "Inter Miami" 
+  },
+    { "id": 2, 
+    "name": "Cristiano Ronaldo", 
+    "age": 40, 
+    "position": "Forward", 
+    "club": "Al-Nassr" 
+  },
+    { "id": 3, 
+    "name": "Kylian Mbappé", 
+    "age": 26, 
+    "position": "Forward", 
+    "club": "Real Madrid" 
+  },
+    { "id": 4, 
+    "name": "Kevin De Bruyne", 
+    "age": 34, 
+    "position": "Midfielder", 
+    "club": "Manchester City" 
+  },
+    { "id": 5, 
+    "name": "Erling Haaland", 
+    "age": 25, 
+    "position": "Striker", 
+    "club": "Manchester City" 
+  },
+    { "id": 6, 
+    "name": "Jude Bellingham", 
+    "age": 22, 
+    "position": "Midfielder", 
+    "club": "Real Madrid" 
+  }
+  ],
+  "clubs": [
+    { "id": 101, 
+    "name": "Manchester City", 
+    "country": "England", 
+    "description": "A dominant force in English and European football, known for their technical play.", 
+    "manager_id": 201 
+  },
+    { "id": 102, 
+    "name": "Real Madrid", 
+    "country": "Spain", 
+    "description": "One of the most decorated and prestigious clubs in the history of football.", 
+    "manager_id": 202 
+  },
+    { "id": 103, 
+    "name": "Inter Miami", 
+    "country": "USA", 
+    "description": "A rising force in the MLS, known for major international signings.", 
+    "manager_id": 203 
+  },
+    { "id": 104, 
+    "name": "Al-Nassr", 
+    "country": "Saudi Arabia", 
+    "description": "A top club in the Saudi Pro League with global superstars.", 
+    "manager_id": 204 
+  }
+  ],
+  "managers": [
+    { "id": 201, 
+    "name": "Pep Guardiola", 
+    "specialty": "Tiki-taka & Positional Play" 
+  },
+    { "id": 202, 
+    "name": "Carlo Ancelotti", 
+    "specialty": "Adaptable Tactics & Player Management"
+   },
+    { "id": 203, 
+    "name": "Gerardo Martino", 
+    "specialty": "High-Press & Attacking Football" 
+  },
+    { "id": 204, 
+    "name": "Luís Castro", 
+    "specialty": "Organized Defense & Counter-Attacks" 
+  }
+  ]
+}
